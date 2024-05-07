@@ -19,7 +19,7 @@ Once you have Power BI Desktop installed, you can download a dashboard project f
 This repository contains the following dashboard project:
 
 - [Projet1 - HR analytics dashboard]([[https://github.com/imenbkr/Power-Bi-dashboards/tree/main/Projet1%20-%20HR%20analytics%20dashboard](https://github.com/MotsimAslam/Data-Analyst-Portfolio/blob/main/HR%20Analytics.pbix](https://github.com/MotsimAslam/Data-Analyst-Portfolio))): A dashboard that displays HR data for a company, including Attrition count of Employees, Job Satisfaction rate, and Job Roles.
-- [Project 2 - Financial Report]([https://github.com/imenbkr/Power-Bi-dashboards/tree/main/Project%202%20-%20Financial%20Report): A dashboard that displays a summary on profits of a company. [Link to the dashboard on novypro](https://www.novypro.com/project/financial-report-7](https://github.com/MotsimAslam/Data-Analyst-Portfolio))
+- [Project 2 - Financial Report]([https://github.com/imenbkr/Power-Bi-dashboards/tree/main/Project%202%20-%20Financial%20Report): A dashboard that displays a summary on profits of a company.
 
 Each project folder contains a README.md file that describes the purpose of the dashboard, the data sources used, and any other relevant information. You can also find screenshots of the dashboard.
 
